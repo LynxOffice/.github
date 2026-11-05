@@ -16,7 +16,7 @@ Both need macOS 14 or later, on Apple silicon or Intel.
 
 ## Links
 
-[Mac App Store](https://apps.apple.com/app/id6816326304) · [Microsoft Store](https://apps.microsoft.com/detail/9NZZJKZHMR19) · [Website](https://lynxoffice.com) · [Support](https://support.kdan.com/)
+[Mac App Store](https://apps.apple.com/app/id6816326304?pt=264933&ct=github-org) · [Microsoft Store](https://apps.microsoft.com/detail/9NZZJKZHMR19?cid=github-org) · [Website](https://lynxoffice.com) · [Support](https://support.kdan.com/)
 
 ---
 
